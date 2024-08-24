@@ -1,0 +1,9 @@
+total 20
+drwxrwxrwx 1 anaaruizb anaaruizb   512 Aug 23  2024 ./
+drwxrwxrwx 1 anaaruizb anaaruizb   512 Aug 23 19:21 ../
+drwxrwxrwx 1 anaaruizb anaaruizb   512 Aug 23 19:21 .git/
+-rwxrwxrwx 1 anaaruizb anaaruizb   290 Aug 23 19:21 .gitignore*
+-rwxrwxrwx 1 anaaruizb anaaruizb    16 Aug 23 19:21 README.md*
+-rwxrwxrwx 1 anaaruizb anaaruizb 19124 Aug 23 19:50 archivo-01-huellas-txt*
+-rwxrwxrwx 1 anaaruizb anaaruizb   112 Aug 23 19:50 archivo-02-huellas-txt*
+-rwxrwxrwx 1 anaaruizb anaaruizb     0 Aug 23  2024 archivo-03-huellas-txt*
