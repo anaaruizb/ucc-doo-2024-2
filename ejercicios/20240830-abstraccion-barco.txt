@@ -1,0 +1,20 @@
+*navegar
+*desplazar
+*almacenar
+*detenerse
+*girar
+*descargar peso
+*acelerar
+*flotar
+*sumergirse
+
+atributos
+*matricula (marca o id)
+*rompe olas (evita golpes y mejor manejo del barco)
+*bodega (guardar equipaje)
+*un ancla (usado para detener estacionar el barco)
+*radar (mejora el posicionamiento del barco)
+*cabina de mando (lugar para controlar el barco)
+*color (distintivo)
+*tamano (depende para que se usa el barco)
+*helice (sirve para impulsar el barco)
