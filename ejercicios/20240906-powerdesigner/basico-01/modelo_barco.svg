@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="141mm" xmlns="http://www.w3.org/2000/svg" height="73mm" version="1.1" viewBox="0 0 536 279" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <path d="M279,58 L144,58 A8,8 0 0,0 136,66 L136,127" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="136,127 133,113 139,113" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="136" y="53" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_ITINERAR_REFERENCE_BARCO</text>
+   <path d="M406,113 L406,242 A8,8 0 0,1 398,250 L148,250" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="148,250 162,247 162,253" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="406" y="253" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_ITINERAR_REFERENCE_CIUDAD</text>
+   <rect x="13" y="127" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="13" y="127" fill="url(#Gradient1)" width="247" height="85" stroke="#804000" stroke-width="1"/>
+   <text x="136" y="138" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">barco</text>
+   <line x1="13" x2="260" y1="144" y2="144" stroke="#804000" stroke-width="1"/>
+   <text x="18" y="154" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">id</text>
+   <text x="18" y="167" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">capacidad</text>
+   <text x="18" y="180" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">color</text>
+   <text x="18" y="193" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">marca</text>
+   <text x="18" y="206" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">modelo</text>
+   <text x="75" y="154" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">NUMERIC</text>
+   <text x="75" y="167" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NUMERIC(15,2)</text>
+   <text x="75" y="180" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(20)</text>
+   <text x="75" y="193" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(0)</text>
+   <text x="75" y="206" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="235" y="154" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="2" y="224" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="224" fill="url(#Gradient2)" width="146" height="53" stroke="#804000" stroke-width="1"/>
+   <text x="75" y="235" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ciudad</text>
+   <line x1="2" x2="148" y1="241" y2="241" stroke="#804000" stroke-width="1"/>
+   <text x="7" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">id</text>
+   <text x="7" y="264" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nombre</text>
+   <text x="51" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">NUMERIC</text>
+   <text x="51" y="264" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(0)</text>
+   <text x="120" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="279" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="279" y="2" fill="url(#Gradient3)" width="255" height="111" stroke="#804000" stroke-width="1"/>
+   <text x="406" y="13" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">itinerario</text>
+   <line x1="279" x2="534" y1="19" y2="19" stroke="#804000" stroke-width="1"/>
+   <text x="284" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">id</text>
+   <text x="284" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nombre</text>
+   <text x="284" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_salida</text>
+   <text x="284" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">hora_salida</text>
+   <text x="284" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">barco_id</text>
+   <text x="284" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ciudad_salida_id</text>
+   <text x="284" y="107" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ciudad_llegada_id2</text>
+   <text x="387" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NUMERIC</text>
+   <text x="387" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(0)</text>
+   <text x="387" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DATE</text>
+   <text x="387" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIME WITH TIME ZONE</text>
+   <text x="387" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DECIMAL</text>
+   <text x="387" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">CHAR</text>
+   <text x="387" y="107" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">CHAR</text>
+   <text x="510" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+   <text x="510" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk1&gt;</text>
+</svg>
